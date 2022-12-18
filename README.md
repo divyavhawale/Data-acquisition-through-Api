@@ -1,4 +1,5 @@
 # Data-acquisition-through-Api
+Link:https://github.com/divyavhawale/Data-acquisition-through-Api/tree/main
 This project involved collecting data from a website and processing it to get a clearer picture of it. 
 Data Acquisition is composed of two words: Data and Acquisition, where data is the raw facts and figures, which could be structured and unstructured and acquisition means acquiring data for the given task at hand.
 Preparing (cleaning and arranging) raw data in order to make it appropriate for creating and training models is known as data pre-processing.
